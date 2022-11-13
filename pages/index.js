@@ -13,12 +13,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Bershars" />
+        <Header title="Bershars Furniture Restoration" />
         <hr />
         <p className="description">
           Website Under Construction
         </p>
-        <FeedbackForm />
+        {/* <FeedbackForm /> */}
         <JokeBlock />
       </main>
       <Footer />
